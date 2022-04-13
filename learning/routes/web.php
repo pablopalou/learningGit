@@ -17,12 +17,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/ruta1', function () {
+
+Route::get('/ruta3', function () {
     return view('welcome');
 });
 
-
-Route::get('/ruta3', function () {
+Route::get('/ruta44', function () {
     return view('welcome');
 });
 
