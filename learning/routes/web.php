@@ -22,6 +22,11 @@ Route::get('/ruta3', function () {
     return view('welcome');
 });
 
+Route::get('/ruta33', function () {
+    return view('welcome');
+});
+
+
 Route::get('/ruta44', function () {
     return view('welcome');
 });
