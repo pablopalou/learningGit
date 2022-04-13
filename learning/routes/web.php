@@ -21,9 +21,6 @@ Route::get('/ruta1', function () {
     return view('welcome');
 });
 
-Route::get('/ruta2', function () {
-    return view('welcome');
-});
 
 Route::get('/ruta3', function () {
     return view('welcome');
