@@ -33,3 +33,7 @@ Route::get('/ruta5', function () {
 Route::get('/ruta6', function () {
     return view('welcome');
 });
+
+Route::get('/ruta7', function () {
+    return view('welcome');
+});
